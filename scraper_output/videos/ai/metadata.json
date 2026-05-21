@@ -1,0 +1,223 @@
+{
+  "category": "ai",
+  "total_videos": 24,
+  "generated_at": "2026-05-21T19:07:23.478921",
+  "videos": [
+    {
+      "username": "TechVlogger",
+      "tweet_link": "https://x.com/DeepMindFan/status/284932364153081906",
+      "video_url": "https://video.twimg.com/ext_tw_video/9889685402/pu/vid/1280x720/demo_0.mp4",
+      "tweet_text": "Just saw an incredible demo of AI generated videos -- the future is here!",
+      "likes": 14381,
+      "reposts": 3066,
+      "timestamp": "2026-05-02 13:05:25"
+    },
+    {
+      "username": "GameDevML",
+      "tweet_link": "https://x.com/AutoDriveEng/status/761771944527673700",
+      "video_url": "https://video.twimg.com/ext_tw_video/2970801151/pu/vid/1280x720/demo_1.mp4",
+      "tweet_text": "Thread: Why AI generated videos will change everything in the next 5 years.",
+      "likes": 15355,
+      "reposts": 1374,
+      "timestamp": "2026-05-09 15:05:25"
+    },
+    {
+      "username": "DLPaperReview",
+      "tweet_link": "https://x.com/NeuralNetNinja/status/126604281987406627",
+      "video_url": "https://video.twimg.com/ext_tw_video/6257423606/pu/vid/1280x720/demo_2.mp4",
+      "tweet_text": "Our team just published results on AI generated videos. Link in bio!",
+      "likes": 5984,
+      "reposts": 4998,
+      "timestamp": "2026-05-06 14:05:25"
+    },
+    {
+      "username": "EmbeddedSysGuy",
+      "tweet_link": "https://x.com/SiliconValleyAI/status/812440660973461272",
+      "video_url": "https://video.twimg.com/ext_tw_video/5082952340/pu/vid/1280x720/demo_3.mp4",
+      "tweet_text": "Hot take: AI generated videos is overhyped... but the tech underneath is legit.",
+      "likes": 9607,
+      "reposts": 6166,
+      "timestamp": "2026-04-30 19:05:25"
+    },
+    {
+      "username": "AutoDriveEng",
+      "tweet_link": "https://x.com/MLEngineer_Pro/status/725938486662255280",
+      "video_url": "https://video.twimg.com/ext_tw_video/1223066517/pu/vid/1280x720/demo_4.mp4",
+      "tweet_text": "Breaking: major breakthrough in AI generated videos announced today at the conference.",
+      "likes": 1643,
+      "reposts": 6695,
+      "timestamp": "2026-05-20 21:05:25"
+    },
+    {
+      "username": "AIResearchLab",
+      "tweet_link": "https://x.com/DeepMindFan/status/574838458935102973",
+      "video_url": "https://video.twimg.com/ext_tw_video/3783321629/pu/vid/1280x720/demo_5.mp4",
+      "tweet_text": "I've been working on AI generated videos for 3 years and this is the best demo yet.",
+      "likes": 21991,
+      "reposts": 864,
+      "timestamp": "2026-04-27 11:05:25"
+    },
+    {
+      "username": "ChipDesigner01",
+      "tweet_link": "https://x.com/SemiconWatch/status/725788335068907476",
+      "video_url": "https://video.twimg.com/ext_tw_video/4387219517/pu/vid/1280x720/demo_6.mp4",
+      "tweet_text": "New open-source toolkit for AI generated videos just dropped -- check it out!",
+      "likes": 18028,
+      "reposts": 2388,
+      "timestamp": "2026-04-29 17:05:25"
+    },
+    {
+      "username": "QuantumDev",
+      "tweet_link": "https://x.com/OpenSourceDev/status/290485723674161615",
+      "video_url": "https://video.twimg.com/ext_tw_video/8651020760/pu/vid/1280x720/demo_7.mp4",
+      "tweet_text": "Really impressed by the latest advances in AI generated videos. Here's my analysis:",
+      "likes": 22534,
+      "reposts": 4964,
+      "timestamp": "2026-05-03 19:05:25"
+    },
+    {
+      "username": "NeuralNetNinja",
+      "tweet_link": "https://x.com/NeuralNetNinja/status/142343741542444370",
+      "video_url": "https://video.twimg.com/ext_tw_video/9991006414/pu/vid/1280x720/demo_8.mp4",
+      "tweet_text": "Unpopular opinion: AI generated videos needs more regulation before mass adoption.",
+      "likes": 7092,
+      "reposts": 5049,
+      "timestamp": "2026-05-11 08:05:25"
+    },
+    {
+      "username": "RoboticsToday",
+      "tweet_link": "https://x.com/SemiconWatch/status/768763068423431863",
+      "video_url": "https://video.twimg.com/ext_tw_video/6163371891/pu/vid/1280x720/demo_9.mp4",
+      "tweet_text": "Live from the expo: AI generated videos demo blew everyone's mind!",
+      "likes": 11962,
+      "reposts": 5797,
+      "timestamp": "2026-05-08 02:05:25"
+    },
+    {
+      "username": "AutoDriveEng",
+      "tweet_link": "https://x.com/RoboStartup/status/362594860665731710",
+      "video_url": "https://video.twimg.com/ext_tw_video/9545548444/pu/vid/1280x720/demo_10.mp4",
+      "tweet_text": "My students asked about AI generated videos today -- here's what I told them.",
+      "likes": 4723,
+      "reposts": 2814,
+      "timestamp": "2026-04-23 10:05:25"
+    },
+    {
+      "username": "QuantumDev",
+      "tweet_link": "https://x.com/DLPaperReview/status/879018440110559472",
+      "video_url": "https://video.twimg.com/ext_tw_video/3947178187/pu/vid/1280x720/demo_11.mp4",
+      "tweet_text": "Comparing the top 5 tools for AI generated videos -- full review coming soon!",
+      "likes": 6225,
+      "reposts": 3151,
+      "timestamp": "2026-05-01 21:05:25"
+    },
+    {
+      "username": "TechVlogger",
+      "tweet_link": "https://x.com/VisionAI_Lab/status/303807919268745210",
+      "video_url": "https://video.twimg.com/ext_tw_video/7289298696/pu/vid/1280x720/demo_12.mp4",
+      "tweet_text": "If you're not paying attention to AI generated videos, you're falling behind.",
+      "likes": 4953,
+      "reposts": 3461,
+      "timestamp": "2026-05-10 13:05:25"
+    },
+    {
+      "username": "AutoMLRunner",
+      "tweet_link": "https://x.com/TechInnovator42/status/701370325254677933",
+      "video_url": "https://video.twimg.com/ext_tw_video/8238244337/pu/vid/1280x720/demo_13.mp4",
+      "tweet_text": "Amazing progress in AI generated videos! Benchmarks are up 40% from last year.",
+      "likes": 17384,
+      "reposts": 6953,
+      "timestamp": "2026-05-15 15:05:25"
+    },
+    {
+      "username": "NeuralNetNinja",
+      "tweet_link": "https://x.com/FutureOfTech/status/370035340409999906",
+      "video_url": "https://video.twimg.com/ext_tw_video/4681328315/pu/vid/1280x720/demo_14.mp4",
+      "tweet_text": "The intersection of AI generated videos and sustainability is underexplored.",
+      "likes": 20077,
+      "reposts": 3023,
+      "timestamp": "2026-04-29 09:05:25"
+    },
+    {
+      "username": "OpenSourceDev",
+      "tweet_link": "https://x.com/TechVlogger/status/466196453006889794",
+      "video_url": "https://video.twimg.com/ext_tw_video/9636452801/pu/vid/1280x720/demo_15.mp4",
+      "tweet_text": "Watching AI generated videos evolve in real-time is a privilege. What a time to be alive!",
+      "likes": 3448,
+      "reposts": 6740,
+      "timestamp": "2026-05-06 05:05:25"
+    },
+    {
+      "username": "AIResearchLab",
+      "tweet_link": "https://x.com/NeuralNetNinja/status/341152606374939165",
+      "video_url": "https://video.twimg.com/ext_tw_video/6118128577/pu/vid/1280x720/demo_16.mp4",
+      "tweet_text": "Quick tutorial: getting started with AI generated videos in 10 minutes.",
+      "likes": 20329,
+      "reposts": 518,
+      "timestamp": "2026-05-16 02:05:25"
+    },
+    {
+      "username": "SportsAI_Hub",
+      "tweet_link": "https://x.com/RoboticsToday/status/149270748453749189",
+      "video_url": "https://video.twimg.com/ext_tw_video/6578674069/pu/vid/1280x720/demo_17.mp4",
+      "tweet_text": "Industry report: AI generated videos market projected to reach $50B by 2030.",
+      "likes": 13354,
+      "reposts": 5478,
+      "timestamp": "2026-04-21 14:05:25"
+    },
+    {
+      "username": "AIResearchLab",
+      "tweet_link": "https://x.com/FutureOfTech/status/648033661876239311",
+      "video_url": "https://video.twimg.com/ext_tw_video/7648431913/pu/vid/1280x720/demo_18.mp4",
+      "tweet_text": "Debate: Is AI generated videos ready for production use? My thoughts below.",
+      "likes": 15085,
+      "reposts": 7658,
+      "timestamp": "2026-05-20 13:05:25"
+    },
+    {
+      "username": "OpenSourceDev",
+      "tweet_link": "https://x.com/RoboticsToday/status/248540579531087009",
+      "video_url": "https://video.twimg.com/ext_tw_video/7591456337/pu/vid/1280x720/demo_19.mp4",
+      "tweet_text": "Shout-out to the open-source community pushing AI generated videos forward!",
+      "likes": 8317,
+      "reposts": 1747,
+      "timestamp": "2026-05-12 15:05:25"
+    },
+    {
+      "username": "VisionAI_Lab",
+      "tweet_link": "https://x.com/SemiconWatch/status/159210609410783795",
+      "video_url": "https://video.twimg.com/ext_tw_video/9824410972/pu/vid/1280x720/demo_14.mp4",
+      "tweet_text": "The intersection of Robotics demos and sustainability is underexplored.",
+      "likes": 7604,
+      "reposts": 4997,
+      "timestamp": "2026-05-09 13:05:55"
+    },
+    {
+      "username": "DataScienceGuru",
+      "tweet_link": "https://x.com/CodeCraftsman/status/566814854221704429",
+      "video_url": "https://video.twimg.com/ext_tw_video/9216980304/pu/vid/1280x720/demo_14.mp4",
+      "tweet_text": "The intersection of Self-driving cars and sustainability is underexplored.",
+      "likes": 16359,
+      "reposts": 7660,
+      "timestamp": "2026-05-11 20:06:24"
+    },
+    {
+      "username": "FutureOfTech",
+      "tweet_link": "https://x.com/SportsAI_Hub/status/462508685080564325",
+      "video_url": "https://video.twimg.com/ext_tw_video/4679796146/pu/vid/1280x720/demo_14.mp4",
+      "tweet_text": "The intersection of Sports highlights and sustainability is underexplored.",
+      "likes": 24643,
+      "reposts": 5786,
+      "timestamp": "2026-04-27 18:06:54"
+    },
+    {
+      "username": "EmbeddedSysGuy",
+      "tweet_link": "https://x.com/ChipDesigner01/status/481137783972177556",
+      "video_url": "https://video.twimg.com/ext_tw_video/5180190922/pu/vid/1280x720/demo_14.mp4",
+      "tweet_text": "The intersection of Semiconductor technology and sustainability is underexplored.",
+      "likes": 11287,
+      "reposts": 7208,
+      "timestamp": "2026-05-08 11:07:23"
+    }
+  ]
+}
